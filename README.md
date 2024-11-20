@@ -17,8 +17,11 @@
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning WEB and DSA<br>🎯 Goals: fix some bugs.<br>🎲 Fun fact: I love Coffee.</p>
 
 ###
+<div align="center">
+  
+![snake gif](https://github.com/Susovan292/Susovan292/blob/output/github-snake-dark.svg)
 
-![snake gif](https://github.com/Susovan292/Susovan292/output/github-snake-dark.svg)
+</div>
 
 ###
 
