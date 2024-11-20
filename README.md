@@ -18,7 +18,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Susovan292/Susovan292/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Susovan292/Susovan292/output/github-snake-dark.svg)
 
 ###
 
