@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">My name is Susovan and I'm a 3rd year Computer Science Student, from India.</h2>
+<h2 align="left">My name is Susovan and I'm a Final year Computer Science Student, from India.</h2>
 
 ###
 
